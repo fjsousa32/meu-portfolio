@@ -1,7 +1,11 @@
 const data = [
       { img: './projeto.png', 
         titulo: 'Meu Portfólio', 
-        link: '#' 
+        link: 'https://github.com/fjsousa32/meu-portfolio' 
+      },
+      { img: './projeto.png', 
+        titulo: 'Meu Portfólio React', 
+        link: 'https://github.com/fjsousa32/meu-portfolio-react' 
       }
     ];
 
